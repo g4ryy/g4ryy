@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gary!  
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 𒆜🅶🅰🆁🆈𒆜 
 
 I'm currently a third year undergraduate at the National University of Singapore, pursuing a double major in Data Science 📊 & Computer Science 👩‍💻
 
