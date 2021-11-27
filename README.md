@@ -24,7 +24,7 @@ Machine Learning:
     * Written in Java
    
 2. [NewAddressBook](https://github.com/AY2122S1-CS2103-T16-3/tp)
-    * A desktop app built for Singapore secondary school teachers that are handling large classes. It helps them manage the contacts of their students and colleagues efficiently. It also supports keeping track of upcoming meetings.
+    * A desktop app built for Singapore secondary school teachers who are handling large classes. It helps them manage the contacts of their students and colleagues efficiently. It also supports keeping track of upcoming meetings.
     * Written in Java
 
 3. [Fake News Detection](https://github.com/g4ryy/Fake-News-Detection)
