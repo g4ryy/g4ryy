@@ -29,7 +29,7 @@ Machine Learning:
     * Written in Java
   
 3. [Meet Me in the Middle](https://github.com/g4ryy/meet-me-in-the-middle)
-    * A simple web app that helps to find a "central" location given multiple starting points.
+    * A simple web app that helps to find a "central" location given multiple starting mrt stations.
     * Built using React for frontend and Flask for backend.
 
 4. [Fake News Detection](https://github.com/g4ryy/Fake-News-Detection)
